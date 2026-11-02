@@ -1,0 +1,379 @@
+{
+  "E1_load": {
+    "50": {
+      "TRIO": {
+        "margin": 1.0,
+        "mean": 99.5,
+        "runs": 15
+      },
+      "SEQ": {
+        "margin": 0.5,
+        "mean": 99.5,
+        "runs": 15
+      },
+      "PERF+SEC": {
+        "margin": 0.2,
+        "mean": 92.5,
+        "runs": 15
+      },
+      "PERF+DEP": {
+        "margin": 0.5,
+        "mean": 65.7,
+        "runs": 15
+      },
+      "PERF": {
+        "margin": 0.5,
+        "mean": 60.8,
+        "runs": 15
+      }
+    },
+    "100": {
+      "TRIO": {
+        "margin": 1.0,
+        "mean": 99.3,
+        "runs": 15
+      },
+      "SEQ": {
+        "margin": 0.2,
+        "mean": 98.3,
+        "runs": 15
+      },
+      "PERF+SEC": {
+        "margin": 0.2,
+        "mean": 82.9,
+        "runs": 15
+      },
+      "PERF+DEP": {
+        "margin": 0.5,
+        "mean": 71.8,
+        "runs": 15
+      },
+      "PERF": {
+        "margin": 0.5,
+        "mean": 68.1,
+        "runs": 15
+      }
+    },
+    "150": {
+      "TRIO": {
+        "margin": 1.0,
+        "mean": 99.2,
+        "runs": 15
+      },
+      "SEQ": {
+        "margin": 0.2,
+        "mean": 89.5,
+        "runs": 15
+      },
+      "PERF+SEC": {
+        "margin": 0.5,
+        "mean": 74.2,
+        "runs": 15
+      },
+      "PERF+DEP": {
+        "margin": 1.0,
+        "mean": 63.6,
+        "runs": 15
+      },
+      "PERF": {
+        "margin": 0.5,
+        "mean": 63.3,
+        "runs": 15
+      }
+    },
+    "200": {
+      "TRIO": {
+        "margin": 1.0,
+        "mean": 95.8,
+        "runs": 15
+      },
+      "SEQ": {
+        "margin": 0.5,
+        "mean": 71.4,
+        "runs": 15
+      },
+      "PERF+SEC": {
+        "margin": 0.5,
+        "mean": 65.5,
+        "runs": 15
+      },
+      "PERF+DEP": {
+        "margin": 1.0,
+        "mean": 47.5,
+        "runs": 15
+      },
+      "PERF": {
+        "margin": 0.5,
+        "mean": 40.5,
+        "runs": 15
+      }
+    },
+    "250": {
+      "TRIO": {
+        "margin": 1.0,
+        "mean": 83.3,
+        "runs": 15
+      },
+      "SEQ": {
+        "margin": 0.5,
+        "mean": 67.2,
+        "runs": 15
+      },
+      "PERF+SEC": {
+        "margin": 0.5,
+        "mean": 59.1,
+        "runs": 15
+      },
+      "PERF+DEP": {
+        "margin": 0.5,
+        "mean": 35.0,
+        "runs": 15
+      },
+      "PERF": {
+        "margin": 0.5,
+        "mean": 28.5,
+        "runs": 15
+      }
+    },
+    "300": {
+      "TRIO": {
+        "margin": 1.0,
+        "mean": 72.7,
+        "runs": 15
+      },
+      "SEQ": {
+        "margin": 0.5,
+        "mean": 53.5,
+        "runs": 15
+      },
+      "PERF+SEC": {
+        "margin": 0.5,
+        "mean": 51.6,
+        "runs": 15
+      },
+      "PERF+DEP": {
+        "margin": 0.5,
+        "mean": 32.3,
+        "runs": 15
+      },
+      "PERF": {
+        "margin": 0.5,
+        "mean": 27.2,
+        "runs": 15
+      }
+    }
+  },
+  "E2_attack_rate": {
+    "0": {
+      "TRIO": {
+        "margin": 1.0,
+        "mean": 96.9,
+        "runs": 10
+      },
+      "SEQ": {
+        "margin": 1.0,
+        "mean": 96.9,
+        "runs": 10
+      },
+      "PERF+SEC": {
+        "margin": 0.5,
+        "mean": 62.4,
+        "runs": 10
+      },
+      "PERF+DEP": {
+        "margin": 1.0,
+        "mean": 76.8,
+        "runs": 10
+      },
+      "PERF": {
+        "margin": 0.5,
+        "mean": 51.0,
+        "runs": 10
+      }
+    },
+    "0.0025": {
+      "TRIO": {
+        "margin": 1.0,
+        "mean": 96.2,
+        "runs": 10
+      },
+      "SEQ": {
+        "margin": 0.5,
+        "mean": 79.3,
+        "runs": 10
+      },
+      "PERF+SEC": {
+        "margin": 0.2,
+        "mean": 57.0,
+        "runs": 10
+      },
+      "PERF+DEP": {
+        "margin": 1.0,
+        "mean": 52.8,
+        "runs": 10
+      },
+      "PERF": {
+        "margin": 0.5,
+        "mean": 38.4,
+        "runs": 10
+      }
+    },
+    "0.005": {
+      "TRIO": {
+        "margin": 1.0,
+        "mean": 95.9,
+        "runs": 10
+      },
+      "SEQ": {
+        "margin": 0.5,
+        "mean": 71.4,
+        "runs": 10
+      },
+      "PERF+SEC": {
+        "margin": 0.5,
+        "mean": 62.7,
+        "runs": 10
+      },
+      "PERF+DEP": {
+        "margin": 1.0,
+        "mean": 47.7,
+        "runs": 10
+      },
+      "PERF": {
+        "margin": 0.5,
+        "mean": 38.4,
+        "runs": 10
+      }
+    },
+    "0.01": {
+      "TRIO": {
+        "margin": 1.0,
+        "mean": 81.1,
+        "runs": 10
+      },
+      "SEQ": {
+        "margin": 1.0,
+        "mean": 50.6,
+        "runs": 10
+      },
+      "PERF+SEC": {
+        "margin": 1.0,
+        "mean": 62.7,
+        "runs": 10
+      },
+      "PERF+DEP": {
+        "margin": 1.0,
+        "mean": 45.4,
+        "runs": 10
+      },
+      "PERF": {
+        "margin": 0.5,
+        "mean": 38.4,
+        "runs": 10
+      }
+    },
+    "0.02": {
+      "TRIO": {
+        "margin": 1.0,
+        "mean": 57.5,
+        "runs": 10
+      },
+      "SEQ": {
+        "margin": 0.5,
+        "mean": 36.4,
+        "runs": 10
+      },
+      "PERF+SEC": {
+        "margin": 0.5,
+        "mean": 39.2,
+        "runs": 10
+      },
+      "PERF+DEP": {
+        "margin": 0.5,
+        "mean": 34.6,
+        "runs": 10
+      },
+      "PERF": {
+        "margin": 0.5,
+        "mean": 31.1,
+        "runs": 10
+      }
+    },
+    "0.04": {
+      "TRIO": {
+        "margin": 1.0,
+        "mean": 47.4,
+        "runs": 10
+      },
+      "SEQ": {
+        "margin": 0.5,
+        "mean": 32.5,
+        "runs": 10
+      },
+      "PERF+SEC": {
+        "margin": 0.5,
+        "mean": 42.3,
+        "runs": 10
+      },
+      "PERF+DEP": {
+        "margin": 0.5,
+        "mean": 30.5,
+        "runs": 10
+      },
+      "PERF": {
+        "margin": 0.5,
+        "mean": 31.1,
+        "runs": 10
+      }
+    }
+  },
+  "E3_security_reservation": {
+    "150 users": {
+      "rho=0": 64.9,
+      "rho=0.05": 98.9,
+      "rho=0.1": 98.9,
+      "rho=0.15": 98.9,
+      "rho=0.2": 98.9,
+      "rho=0.3": 98.1
+    },
+    "250 users": {
+      "rho=0": 49.0,
+      "rho=0.05": 80.3,
+      "rho=0.1": 83.3,
+      "rho=0.15": 80.6,
+      "rho=0.2": 77.4,
+      "rho=0.3": 71.0
+    }
+  },
+  "E4_ablation": {
+    "TRIO (200 users)": 95.9,
+    "most-constrained-first order only (200 users)": 95.5,
+    "cheapest-first order only (200 users)": 96.0,
+    "no price refinement (200 users)": 92.2,
+    "single replica (K=1) (200 users)": 67.1,
+    "fixed latency level (q=3) (200 users)": 77.7,
+    "TRIO (300 users)": 72.8,
+    "most-constrained-first order only (300 users)": 69.1,
+    "cheapest-first order only (300 users)": 72.9,
+    "no price refinement (300 users)": 70.6,
+    "single replica (K=1) (300 users)": 53.9,
+    "fixed latency level (q=3) (300 users)": 59.2
+  },
+  "E5_optimality_gap_percent": {
+    "5 hosts, 40 users": 0.0,
+    "5 hosts, 60 users": 0.0,
+    "5 hosts, 90 users": 3.0,
+    "5 hosts, 120 users": 3.6,
+    "12 hosts, 100 users": 0.0,
+    "12 hosts, 150 users": 0.0,
+    "12 hosts, 200 users": 1.9,
+    "12 hosts, 250 users": 2.5,
+    "12 hosts, 300 users": 2.4
+  },
+  "trio_runtime_s": {
+    "100": 1.08,
+    "200": 1.84,
+    "400": 4.78,
+    "800": 10.39
+  }
+}

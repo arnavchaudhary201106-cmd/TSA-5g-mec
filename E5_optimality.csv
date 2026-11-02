@@ -1,0 +1,46 @@
+hosts,users,seed,trio_tasks_met,ilp_tasks_met,ilp_upper_bound,ilp_status,ilp_configuration_set,trio_runtime_s,ilp_runtime_s,ilp_variables
+5,40,0,40,40,40,optimal,full,0.043,5.4,22816
+5,40,1,40,40,40,optimal,full,0.037,4.7,23848
+5,60,0,60,60,60,optimal,full,0.051,21.4,33900
+5,40,2,40,40,40,optimal,full,0.091,4.0,24860
+5,60,1,60,60,60,optimal,full,0.050,22.0,34244
+5,60,2,60,60,60,optimal,full,0.053,6.8,36052
+5,40,3,35,35,35,optimal,full,0.042,4.9,23748
+5,60,3,52,52,52,optimal,full,0.061,7.6,34536
+5,40,4,30,30,30,optimal,full,0.058,3.1,21024
+12,100,0,100,100,100,optimal,restricted,1.193,11.5,23046
+5,60,4,45,45,45,optimal,full,0.056,17.0,31988
+12,150,0,150,150,150,optimal,restricted,1.507,14.5,35195
+12,200,0,193,197,199,time limit,restricted,1.830,60.2,46715
+12,250,0,204,211,211,time limit,restricted,2.502,60.4,59529
+12,100,1,100,100,100,optimal,restricted,1.083,5.8,23376
+12,150,1,150,150,150,optimal,restricted,1.598,15.1,36680
+12,300,0,214,219,221,time limit,restricted,3.419,60.3,72686
+12,200,1,190,196,198,time limit,restricted,2.027,60.5,49600
+12,250,1,210,216,217,time limit,restricted,2.615,60.3,60120
+12,100,2,100,100,100,optimal,restricted,1.016,4.0,21224
+12,150,2,150,150,150,optimal,restricted,1.390,9.4,31229
+12,300,1,224,230,232,time limit,restricted,3.445,60.5,71820
+12,200,2,200,199,200,time limit,restricted,1.617,61.2,40285
+12,250,2,217,221,223,time limit,restricted,2.315,60.3,48630
+12,100,3,100,100,100,optimal,restricted,1.007,6.3,21467
+12,150,3,150,150,150,optimal,restricted,1.350,8.8,31917
+12,300,2,227,231,233,time limit,restricted,3.014,60.2,60929
+12,200,3,187,188,189,time limit,restricted,2.041,60.2,44585
+12,250,3,204,205,207,time limit,restricted,2.687,60.8,54207
+12,100,4,100,100,100,optimal,restricted,1.234,20.2,27323
+12,150,4,150,150,150,optimal,restricted,1.612,16.1,41723
+12,300,3,217,217,219,time limit,restricted,3.726,60.2,64553
+12,200,4,182,190,193,time limit,restricted,2.440,60.2,53762
+12,250,4,199,207,210,time limit,restricted,2.792,60.2,66037
+12,300,4,205,217,220,time limit,restricted,3.861,60.7,79317
+5,90,0,71,72,72,time limit,full,0.092,120.2,47936
+5,120,0,77,78,79,time limit,full,0.202,122.1,62896
+5,90,1,73,75,75,time limit,full,0.101,120.3,51140
+5,120,1,79,81,81,time limit,full,0.147,120.2,70984
+5,90,2,70,73,73,time limit,full,0.124,120.1,52948
+5,120,2,79,81,81,time limit,full,0.140,120.2,69048
+5,90,3,70,73,73,time limit,full,0.089,120.2,51804
+5,120,3,74,79,79,time limit,full,0.134,120.2,71696
+5,90,4,67,69,70,time limit,full,0.088,120.3,50888
+5,120,4,71,75,76,time limit,full,0.129,120.5,69876
